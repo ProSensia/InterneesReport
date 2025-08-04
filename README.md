@@ -30,6 +30,10 @@ This repository serves as:
 Team leads and their groups are working with:
 - Python
 - C++
+- Frontend
+- Backend
+- Digital Marketing
+- Graphics Desining
 - Git & GitHub
 - Web development tools
 - LinkedIn for professional development
